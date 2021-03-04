@@ -17,7 +17,7 @@ cd docker-airflow
 docker-compose -f docker-compose-anyfin.yml up -d
 ```
 
-#### At this point Airlfow should be up and running ( [localhost:8080]([localhost:8080]) by default)
+#### At this point Airlfow should be up and running ( [localhost:8080](localhost:8080) by default)
 #### An empty local postgres database is also installed on your localhost, that can be used for tasks 4 and 5. Credentials are
 
 ```bash
