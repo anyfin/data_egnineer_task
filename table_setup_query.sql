@@ -2,9 +2,9 @@ CREATE TABLE applications (
     id text,
     created_at timestamp,
     status text,
-    reject_reason text,
     customer_id integer,
-    loan_id integer
+    loan_id integer,
+	email text
 );
 
 CREATE TABLE cycles (
