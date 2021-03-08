@@ -5,9 +5,6 @@
 ```bash
 git clone https://github.com/puckel/docker-airflow.git
 ```
-```bash 
-docker pull puckel/docker-airflow
-```
 ```bash
 cd docker-airflow
 ```
